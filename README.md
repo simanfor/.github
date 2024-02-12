@@ -1,4 +1,4 @@
-## 🇪🇸 Bienvenido al repositorio de 🇪🇸 - 🇬🇧 *Welcome to the repository of* 🇬🇧
+## 🇪🇸 Bienvenido al repositorio 🇪🇸 - 🇬🇧 *Welcome to the repository* 🇬🇧
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
