@@ -1,8 +1,12 @@
 ## 🇬🇧 Hi there 👋 - 🇪🇸 Hola 👋 
 
----
 
-🇬🇧  🇬🇧  🇬🇧
+
+🇬🇧 **You are viewing the content of the repository in English**
+
+:es: *Spanish version below*
+
+---
 
 🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
 
@@ -23,9 +27,26 @@
 - ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 
+
+:computer: That is the contributors list to this repository
+
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+
+:email: Contact
+
+*For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*
+
 ---
 
-🇪🇸  🇪🇸  🇪🇸
+---
+
+:es: **Estas viendo el contenido del repositorio en español**  
+
+🇬🇧 *Versión en inglés arriba*
+
+---
 
 🙋‍♀️ Somos el grupo de Selvicultura Cuantitativa del [iuFOR - Instituto Universitario de Investigación en Gestión Forestal Sostenible](https://iufor.uva.es/)
 
@@ -45,3 +66,26 @@
 - 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
 - ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) es nuestra Cátedra compartida con la empresa [Sngular](https://www.sngular.com/). Más información [aquí](https://smartglobalecosystems.uva.es/)
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) contiene todo el material en formato de código de nuestra microcredencial, y lo utilizamos para interactuar con nuestros estudiantes. Puedes encontrar más información sobre la microcredencial GEODATA [aquí](https://geodata.uva.es/)
+
+:computer: Esta es la lista de contribuidores al repositorio
+
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+
+:email: Contacto
+
+*Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*
+
+---
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
+</p>
