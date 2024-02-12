@@ -1,50 +1,15 @@
-## 🇬🇧 Hi there 👋 - 🇪🇸 Hola 👋 
+## 🇪🇸 Bienvenido al repositorio de 🇪🇸 - 🇬🇧 *Welcome to the repository of* 🇬🇧
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
+</p>
 
-
-🇬🇧 **You are viewing the content of the repository in English**
-
-:es: *Spanish version below*
-
----
-
-🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
-
-🌳 SIMANFOR is a tool developed for our group. It is a Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/), which support information is available at [this repository](https://github.com/simanfor). Here, you will find:
-
-*   [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios) - *SIMANFOR scenarios*: a repository with information related to the creation of silviculture itineraries
-*   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion) - *Introduction to SIMANFOR*: a repository with information to understand how this tool works
-*   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios) - *SIMANFOR inventories*: a repository with information related to the development of forest inventories adapted to SIMANFOR and some examples
-*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual) - *SIMANFOR user's manual*: a repository with the user's manual of SIMANFOR (Spanish and English)
-*   [Modelos en SIMANFOR](https://github.com/simanfor/modelos) - *SIMANFOR models*: a repository with information related to SIMANFOR models and sheets describing the models already available on the simulator
-*   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository which shows the publications where this simulator was used
-*   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados) - *SIMANFOR results*: a repository with information related to SIMANFOR outputs and some examples
-*   [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
-
-🔗 Apart from that, we own other repositories that can be interesting for you:
-
-- 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
-- ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
-- 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
-
-
-:computer: That is the contributors list to this repository
-
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
-[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
-[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
-
-:email: Contact
-
-*For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*
-
----
 
 ---
 
 :es: **Estas viendo el contenido del repositorio en español**  
 
-🇬🇧 *Versión en inglés arriba*
+🇬🇧 *English version below*
 
 ---
 
@@ -79,7 +44,45 @@
 
 ---
 
+---
 
+🇬🇧 **You are viewing the content of the repository in English**
+
+:es: *Versión en español arriba*
+
+---
+
+🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
+
+🌳 SIMANFOR is a tool developed for our group. It is a Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/), which support information is available at [this repository](https://github.com/simanfor). Here, you will find:
+
+*   [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios) - *SIMANFOR scenarios*: a repository with information related to the creation of silviculture itineraries
+*   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion) - *Introduction to SIMANFOR*: a repository with information to understand how this tool works
+*   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios) - *SIMANFOR inventories*: a repository with information related to the development of forest inventories adapted to SIMANFOR and some examples
+*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual) - *SIMANFOR user's manual*: a repository with the user's manual of SIMANFOR (Spanish and English)
+*   [Modelos en SIMANFOR](https://github.com/simanfor/modelos) - *SIMANFOR models*: a repository with information related to SIMANFOR models and sheets describing the models already available on the simulator
+*   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository which shows the publications where this simulator was used
+*   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados) - *SIMANFOR results*: a repository with information related to SIMANFOR outputs and some examples
+*   [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
+
+🔗 Apart from that, we own other repositories that can be interesting for you:
+
+- 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
+- ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
+- 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
+
+
+:computer: That is the contributors list to this repository
+
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+
+:email: Contact
+
+*For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*
+
+---
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
