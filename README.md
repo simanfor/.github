@@ -26,6 +26,21 @@
 * [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados): repositorio con información relacionada con los resultados de SIMANFOR y algunos ejemplos
 * [Web de SIMANFOR](https://github.com/simanfor/web): repositorio con información sobre el sitio web de SIMANFOR y su funcionamiento
 
+:movie_camera: También tienes a tu disposición explicaciones en formato vídeo que te ayudarán a comprender mejor cómo funciona SIMANFOR y a dar tus primeros pasos con esta herramienta:
+
+- :scroll: Lista de reproducción: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
+    - :arrow_forward: [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
+    - :arrow_forward: [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
+    - :arrow_forward: [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
+    - :arrow_forward: [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
+    - :arrow_forward: [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
+    - :arrow_forward: [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
+    - :arrow_forward: [Visualizar resultados de SIMANFOR en R](https://youtu.be/AzU9Z989MeE?feature=shared)
+    - :arrow_forward: [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
+    - :arrow_forward: [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
+    - :arrow_forward: [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
+    - :arrow_forward: [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?feature=shared)
+
 🔗 Además de lo anterior, también tenemos otros repositorios que pueden contener alguna informacion relevante para ti:
 
 - 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
@@ -61,9 +76,25 @@
 *   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios) - *SIMANFOR inventories*: a repository with information related to the development of forest inventories adapted to SIMANFOR and some examples
 *   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual) - *SIMANFOR user's manual*: a repository with the user's manual of SIMANFOR (Spanish and English)
 *   [Modelos en SIMANFOR](https://github.com/simanfor/modelos) - *SIMANFOR models*: a repository with information related to SIMANFOR models and sheets describing the models already available on the simulator
-*   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository which shows the publications where this simulator was used
+*   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository that shows the publications where this simulator was used
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados) - *SIMANFOR results*: a repository with information related to SIMANFOR outputs and some examples
 *   [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
+
+
+:movie_camera: You also have available explanations in video format that will help you to better understand how SIMANFOR works and to take your first steps with this tool (just Spanish by the moment):
+
+- :scroll: Playlist: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
+    - :arrow_forward: [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
+    - :arrow_forward: [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
+    - :arrow_forward: [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
+    - :arrow_forward: [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
+    - :arrow_forward: [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
+    - :arrow_forward: [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
+    - :arrow_forward: [Visualizar resultados de SIMANFOR en R](https://youtu.be/AzU9Z989MeE?feature=shared)
+    - :arrow_forward: [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
+    - :arrow_forward: [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
+    - :arrow_forward: [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
+    - :arrow_forward: [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?feature=shared)
 
 🔗 Apart from that, we own other repositories that can be interesting for you:
 
@@ -72,7 +103,7 @@
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 
 
-:computer: That is the contributors list to this repository
+:computer: That is the contributor's list to this repository
 
 [![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
 [![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
