@@ -47,11 +47,12 @@
 - ✨ [Cátedra SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) es nuestra Cátedra compartida con la empresa [Sngular](https://www.sngular.com/). Más información [aquí](https://smartglobalecosystems.uva.es/)
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) contiene todo el material en formato de código de nuestra microcredencial, y lo utilizamos para interactuar con nuestros estudiantes. Puedes encontrar más información sobre la microcredencial GEODATA [aquí](https://geodata.uva.es/)
 
-:computer: Esta es la lista de contribuidores al repositorio
+:computer: Esta es la lista de contribuidores principales al repositorio
 
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
-[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
 [![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/spirosmichalak.png?size=50)](https://github.com/spirosmichalak)
 
 :email: Contacto
 
@@ -103,11 +104,12 @@
 - 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 
 
-:computer: That is the contributor's list to this repository
+:computer: That is the main contributor's list to this repository
 
-[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
-[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
 [![](https://github.com/Felipe-Bravo.png?size=50)](https://github.com/Felipe-Bravo)
+[![](https://github.com/acristo.png?size=50)](https://github.com/acristo)
+[![](https://github.com/aitorvv.png?size=50)](https://github.com/aitorvv)
+[![](https://github.com/spirosmichalak.png?size=50)](https://github.com/spirosmichalak)
 
 :email: Contact
 
