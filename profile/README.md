@@ -82,7 +82,7 @@
 *   [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
 
 
-:movie_camera: You also have available explanations in video format that will help you to better understand how SIMANFOR works and to take your first steps with this tool (just Spanish by the moment):
+:movie_camera: You also have available explanations in video format that will help you to understand better how SIMANFOR works and to take your first steps with this tool (just Spanish at the moment, but using subtitles may be easy to follow):
 
 - :scroll: Playlist: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
     - :arrow_forward: [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
