@@ -58,7 +58,6 @@
 
 - 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
 - ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) es nuestra Cátedra compartida con la empresa [Sngular](https://www.sngular.com/). Más información [aquí](https://smartglobalecosystems.uva.es/)
-- 📚 [GEODATA](https://github.com/GEODATA-UVa) contiene todo el material en formato de código de nuestra microcredencial, y lo utilizamos para interactuar con nuestros estudiantes. Puedes encontrar más información sobre la microcredencial GEODATA [aquí](https://geodata.uva.es/)
 
 ---
 
@@ -167,7 +166,6 @@
 
 - 📈 [iuFOR - Quantitative Forestry](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
 - ✨ [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
-- 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 
 
 ---

@@ -58,7 +58,6 @@
 
 - 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
 - ✨ [Cátedra SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) es nuestra Cátedra compartida con la empresa [Sngular](https://www.sngular.com/). Más información [aquí](https://smartglobalecosystems.uva.es/)
-- 📚 [GEODATA](https://github.com/GEODATA-UVa) contiene todo el material en formato de código de nuestra microcredencial, y lo utilizamos para interactuar con nuestros estudiantes. Puedes encontrar más información sobre la microcredencial GEODATA [aquí](https://geodata.uva.es/)
 
 ---
 
@@ -72,7 +71,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Felipe-Bravo-11) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/felipebravooviedo) 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/fbravo_SFM) 
-[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
+[<img src="https://raw.githubusercontent.com/aitorvv/aitorvv/main/logos/uva.jpg" alt="UVa" width="22">](https://portaldelaciencia.uva.es/investigadores/181874/detalle)
 
 #### Angel Cristóbal Ordóñez Alonso:
 
@@ -82,7 +81,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Cristobal-Ordonez-Alonso) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cristobal-ordonez-b6a97244/) 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/OrdonezAC) 
-[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
+[<img src="https://raw.githubusercontent.com/aitorvv/aitorvv/main/logos/uva.jpg" alt="UVa" width="22">](https://portaldelaciencia.uva.es/investigadores/181312/detalle)
 
 #### Aitor Vázquez Veloso:
 
@@ -94,7 +93,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aitorvazquezveloso/)
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/aitorvv)
-[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
+[<img src="https://raw.githubusercontent.com/aitorvv/aitorvv/main/logos/uva.jpg" alt="UVa" width="22">](https://portaldelaciencia.uva.es/investigadores/178830/detalle)
 
 
 #### Spyridon Michalakopoulos
@@ -105,7 +104,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Spiros-Michalakopoulos) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/spiros-michalakopoulos/?originalSubdomain=es) 
 [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/spirosmichalak) 
-[<img src="https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_200_200/company-logo_200_200/0/1692170343519/universidad_de_valladolid_logo?e=1747872000&v=beta&t=1mTS-xC7h3L_DQATdt6hpqjWGgW_Am3MXKnjYwcOVZs" alt="Description" width="22">](https://portaldelaciencia.uva.es/investigadores/988349/detalle)
+[<img src="https://raw.githubusercontent.com/aitorvv/aitorvv/main/logos/uva.jpg" alt="UVa" width="22">](https://portaldelaciencia.uva.es/investigadores/988349/detalle)
 
 
 ---
@@ -165,7 +164,6 @@
 
 - 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
 - ✨ [Chair SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
-- 📚 [GEODATA](https://github.com/GEODATA-UVa) has the code contents of our micro-credential to interact with students. You can find more information in [here](https://geodata.uva.es/)
 
 ---
 
