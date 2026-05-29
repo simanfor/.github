@@ -39,6 +39,18 @@ Use `---` as a section divider throughout the document. Use two trailing spaces 
 
 ---
 
+## Headings (Levels)
+
+To keep document structure clean and consistent, use a **maximum of three heading levels** (`#`, `##`, `###`):
+
+- `#` (H1): Reserved for the main document title (only one per document).
+- `##` (H2): Used for main sections (e.g., `## 📜 Contenido`, `## ℹ️ Más información`).
+- `###` (H3): Used for subsections under main sections.
+
+Do **not** use `####` (H4) or deeper heading levels. If further nesting or sub-organization is required, use list formatting (`*`) or bold inline text (`**bold**`) instead.
+
+---
+
 ## Language Header Pattern
 
 Each repository has `README.md` (Spanish, main) and `README_english.md` (English) at its root. Both files start with a language-switch block immediately after the first `---`.
@@ -114,3 +126,25 @@ Contributor avatar (50 px):
 > Blockquote text.
 > Multiple lines in the same blockquote.
 ```
+
+---
+
+## Table of Contents (Index)
+
+For long files (those with multiple main sections or extensive scrolling), always include a **Table of Contents** (index) below the main title (or below the language switch header) to facilitate navigation.
+
+Use standard Markdown list syntax with local anchor links pointing to the header titles:
+
+```markdown
+## Table of Contents
+
+- [Overview](#overview)
+- [When to Use](#when-to-use)
+- [Best Practices](#best-practices)
+```
+
+### GitHub Flavored Markdown (GFM) Anchor Rules:
+1. **Lowercase**: Convert all characters to lowercase (e.g., `## Best Practices` becomes `#best-practices`).
+2. **Hyphens**: Replace spaces with hyphens `-`.
+3. **Special characters**: Remove punctuation, emojis, and non-alphanumeric characters (e.g., `## ℹ️ Más información` becomes `#más-información`, ignoring the emoji symbol and leading/trailing spaces).
+
