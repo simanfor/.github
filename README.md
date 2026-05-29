@@ -24,6 +24,7 @@
 * [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios): repositorio con información relacionada con la elaboración de inventarios forestales adaptados a SIMANFOR y algunos ejemplos
 * [Manual de uso de SIMANFOR](https://github.com/simanfor/manual): repositorio con el manual de usuario de SIMANFOR (español e inglés)
 * [Modelos en SIMANFOR](https://github.com/simanfor/modelos): repositorio con información relacionada con los modelos SIMANFOR y fichas que describen los modelos ya disponibles en el simulador
+* [Docker en SIMANFOR](https://github.com/simanfor/docker): repositorio con la documentación pública de usuarios para la ejecución de SIMANFOR en local mediante Docker
 * [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones): repositorio que muestra las publicaciones donde se utilizó este simulador
 * [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados): repositorio con información relacionada con los resultados de SIMANFOR y algunos ejemplos
 * [Web de SIMANFOR](https://github.com/simanfor/web): repositorio con información sobre el sitio web de SIMANFOR y su funcionamiento
@@ -132,6 +133,7 @@
 *   [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios) - *SIMANFOR inventories*: a repository with information related to the development of forest inventories adapted to SIMANFOR and some examples
 *   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual) - *SIMANFOR user's manual*: a repository with the user's manual of SIMANFOR (Spanish and English)
 *   [Modelos en SIMANFOR](https://github.com/simanfor/modelos) - *SIMANFOR models*: a repository with information related to SIMANFOR models and sheets describing the models already available on the simulator
+*   [Docker en SIMANFOR](https://github.com/simanfor/docker) - *SIMANFOR Docker*: a repository with public user documentation to execute SIMANFOR locally using Docker
 *   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository that shows the publications where this simulator was used
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados) - *SIMANFOR results*: a repository with information related to SIMANFOR outputs and some examples
 *   [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
