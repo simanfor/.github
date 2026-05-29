@@ -20,8 +20,8 @@ Conventions and patterns for creating well-formatted, consistent documentation a
 
 ## When to Use
 
-- Writing or updating a `README.md` in any SIMANFOR repository (including the new public `docker` repository)
-- Writing or updating a `README_english.md` in any SIMANFOR repository (including the new public `docker` repository)
+- Writing or updating a `README.md` in any SIMANFOR repository
+- Writing or updating a `README_english.md` in any SIMANFOR repository
 - Updating shared content in `more_info_spanish.md` or `more_info_english.md`
 - Adding a new contributor entry
 - Formatting a citation block
