@@ -1,35 +1,35 @@
-# Bienvenido al repositorio de SIMANFOR
+# Welcome to the SIMANFOR repository
 
 ![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 ---
 
-🇪🇸 **Estas viendo el contenido del repositorio en español**  
+🇬🇧 **You are viewing the content of the repository in English**
 
-🇬🇧 *[English version here](./README_english.md)*
+🇪🇸 *[Versión en español aquí](./README.md)*
 
 ---
 
 ![infografia](./SIMANFOR-infografia.jpg)
 
-### 🙋‍♀️ Somos el grupo de Selvicultura Cuantitativa del [iuFOR - Instituto Universitario de Investigación en Gestión Forestal Sostenible](https://iufor.uva.es/)
+### 🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
 
-##### 🌳 SIMANFOR es una herramienta desarrollada por nuestro grupo. Es un Sistema de Apoyo a la Toma de Decisiones para la Simulación de Alternativas de Gestión Forestal Sostenible disponible en su [sitio web](https://www.simanfor.es/), cuya información de apoyo está disponible en [este repositorio](https://github.com/simanfor). Aquí encontrarás:
+##### 🌳 SIMANFOR is a tool developed for our group. It is a Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/), which support information is available at [this repository](https://github.com/simanfor). Here, you will find:
 
-* [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios): repositorio con información relacionada con la creación de itinerarios selvícolas
-* [Introducción a SIMANFOR](https://github.com/simanfor/introduccion): repositorio con información para entender el funcionamiento de esta herramienta
-* [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios): repositorio con información relacionada con la elaboración de inventarios forestales adaptados a SIMANFOR y algunos ejemplos
-* [Manual de uso de SIMANFOR](https://github.com/simanfor/manual): repositorio con el manual de usuario de SIMANFOR (español e inglés)
-* [Modelos en SIMANFOR](https://github.com/simanfor/modelos): repositorio con información relacionada con los modelos SIMANFOR y fichas que describen los modelos ya disponibles en el simulador
-* [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones): repositorio que muestra las publicaciones donde se utilizó este simulador
-* [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados): repositorio con información relacionada con los resultados de SIMANFOR y algunos ejemplos
-* [Web de SIMANFOR](https://github.com/simanfor/web): repositorio con información sobre el sitio web de SIMANFOR y su funcionamiento
+* [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios) - *SIMANFOR scenarios*: a repository with information related to the creation of silviculture itineraries
+* [Introducción a SIMANFOR](https://github.com/simanfor/introduccion) - *Introduction to SIMANFOR*: a repository with information to understand how this tool works
+* [Inventarios en SIMANFOR](https://github.com/simanfor/inventarios) - *SIMANFOR inventories*: a repository with information related to the development of forest inventories adapted to SIMANFOR and some examples
+* [Manual de uso de SIMANFOR](https://github.com/simanfor/manual) - *SIMANFOR user's manual*: a repository with the user's manual of SIMANFOR (Spanish and English)
+* [Modelos en SIMANFOR](https://github.com/simanfor/modelos) - *SIMANFOR models*: a repository with information related to SIMANFOR models and sheets describing the models already available on the simulator
+* [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones) - *SIMANFOR publications*: a repository that shows the publications where this simulator was used
+* [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados) - *SIMANFOR results*: a repository with information related to SIMANFOR outputs and some examples
+* [Web de SIMANFOR](https://github.com/simanfor/web) - *SIMANFOR website*: a repository with information about the SIMANFOR website and how it works
 
 ---
 
-### 🎬 También tienes a tu disposición explicaciones en formato vídeo que te ayudarán a comprender mejor cómo funciona SIMANFOR y a dar tus primeros pasos con esta herramienta:
+### 🎬 You also have available explanations in video format that will help you to better understand how SIMANFOR works and to take your first steps with this tool (just Spanish by the moment):
 
-- 📜 Lista de reproducción: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
+- 📜 Playlist: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
     - ▶️ [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
     - ▶️ [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
     - ▶️ [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
@@ -49,10 +49,10 @@
 
 ---
 
-### 🔗 Además de lo anterior, también tenemos otros repositorios que pueden contener alguna información relevante para ti:
+### 🔗 Apart from that, we own other repositories that can be interesting for you:
 
-- 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) es el repositorio principal de nuestro grupo de investigación, donde encontrarás información relacionada con muchos proyectos en curso y terminados
-- ✨ [Cátedra SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) es nuestra Cátedra compartida con la empresa [Sngular](https://www.sngular.com/). Más información [aquí](https://smartglobalecosystems.uva.es/)
+- 📈 [SMART Ecosystems Research group](https://github.com/iuFOR-QuantitativeForestry) is the main repository of our research group, where you will find information related to many ongoing and finished projects
+- ✨ [Chair SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) is a Chair that we own joint with [Sngular](https://www.sngular.com/). More information [here](https://smartglobalecosystems.uva.es/)
 
 ---
 
@@ -102,17 +102,17 @@
 
 ---
 
-### 📧 Contacto
+### 📧 Contact
 
-*Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*.
+*For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*.
 
 ---
 
-## ℹ️ Más información
+## ℹ️ More information
 
-Para más contenidos de SIMANFOR, vídeos, publicaciones y cómo citar, visita:
+For more SIMANFOR content, videos, publications and how to cite, visit:
 
-* 🔗 [Más información sobre SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_spanish.md)
+* 🔗 [More information about SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_english.md)
 
 
 ---
