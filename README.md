@@ -2,20 +2,18 @@
 
 ##  🇬🇧 *Welcome to the repository of* 🇬🇧
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 
 ---
 
-:es: **Estas viendo el contenido del repositorio en español**  
+🇪🇸 **Estas viendo el contenido del repositorio en español**  
 
 🇬🇧 *English version below*
 
 ---
 
-![infografia](./profile/SIMANFOR-infografia.jpg)
+![infografia](https://raw.githubusercontent.com/simanfor/.github/main/docs/SIMANFOR-infografia.jpg)
 
 ### 🙋‍♀️ Somos el grupo de Selvicultura Cuantitativa del [iuFOR - Instituto Universitario de Investigación en Gestión Forestal Sostenible](https://iufor.uva.es/)
 
@@ -32,25 +30,25 @@
 
 ---
 
-### :movie_camera: También tienes a tu disposición explicaciones en formato vídeo que te ayudarán a comprender mejor cómo funciona SIMANFOR y a dar tus primeros pasos con esta herramienta:
+### 🎬 También tienes a tu disposición explicaciones en formato vídeo que te ayudarán a comprender mejor cómo funciona SIMANFOR y a dar tus primeros pasos con esta herramienta:
 
-- :scroll: Lista de reproducción: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
-    - :arrow_forward: [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
-    - :arrow_forward: [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
-    - :arrow_forward: [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
-    - :arrow_forward: [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
-    - :arrow_forward: [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
-    - :arrow_forward: [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
-    - :arrow_forward: [Visualizar resultados de SIMANFOR en R](https://youtu.be/a0Mo-WqyHbE?si=tb07ZZZoCx_hhl2A)
-    - :arrow_forward: [Simulaciones con modelos de árbol individual para masas puras en SIMANFOR](https://youtu.be/E06jUw3endo?si=sZuXwWM3iRCU3_Wx)
-    - :arrow_forward: [Simulaciones con modelos de árbol individual para masas mixtas en SIMANFOR](https://youtu.be/FW5giE_BKpM?si=OowzInCz6gGFjhxJ)
-    - :arrow_forward: [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?si=_IIVvrP2mRoeq1oX)
-    - :arrow_forward: [Simulaciones con modelos de masa en SIMANFOR](https://youtu.be/JDY86hcv8dM?si=gZ8SlTi7cVV2H1b5)
-    - :arrow_forward: [Cómo aplicar cortas en SIMANFOR](https://youtu.be/jwO3t0itVuE?si=R04ldbn1RtHblJdy)
-    - :arrow_forward: [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
-    - :arrow_forward: [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
-    - :arrow_forward: [Escenarios en SIMANFOR: errores frecuentes y edición de escenarios](https://youtu.be/4tFygnCK2UU?si=1-cZ_r2ev1PDTTq8)
-    - :arrow_forward: [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
+- 📜 Lista de reproducción: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
+    - ▶️ [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
+    - ▶️ [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
+    - ▶️ [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
+    - ▶️ [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
+    - ▶️ [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
+    - ▶️ [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
+    - ▶️ [Visualizar resultados de SIMANFOR en R](https://youtu.be/a0Mo-WqyHbE?si=tb07ZZZoCx_hhl2A)
+    - ▶️ [Simulaciones con modelos de árbol individual para masas puras en SIMANFOR](https://youtu.be/E06jUw3endo?si=sZuXwWM3iRCU3_Wx)
+    - ▶️ [Simulaciones con modelos de árbol individual para masas mixtas en SIMANFOR](https://youtu.be/FW5giE_BKpM?si=OowzInCz6gGFjhxJ)
+    - ▶️ [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?si=_IIVvrP2mRoeq1oX)
+    - ▶️ [Simulaciones con modelos de masa en SIMANFOR](https://youtu.be/JDY86hcv8dM?si=gZ8SlTi7cVV2H1b5)
+    - ▶️ [Cómo aplicar cortas en SIMANFOR](https://youtu.be/jwO3t0itVuE?si=R04ldbn1RtHblJdy)
+    - ▶️ [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
+    - ▶️ [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
+    - ▶️ [Escenarios en SIMANFOR: errores frecuentes y edición de escenarios](https://youtu.be/4tFygnCK2UU?si=1-cZ_r2ev1PDTTq8)
+    - ▶️ [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
 
 ---
 
@@ -61,7 +59,7 @@
 
 ---
 
-### :computer: Lista de contribuidores
+### 💻 Lista de contribuidores
 
 #### Felipe Bravo Oviedo:
 
@@ -109,7 +107,7 @@
 
 ---
 
-### :email: Contacto
+### 📧 Contacto
 
 *Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*.
 
@@ -119,11 +117,11 @@
 
 🇬🇧 **You are viewing the content of the repository in English**
 
-:es: *Versión en español arriba*
+🇪🇸 *Versión en español arriba*
 
 ---
 
-![infografia](./profile/SIMANFOR-infografia.jpg)
+![infografia](https://raw.githubusercontent.com/simanfor/.github/main/docs/SIMANFOR-infografia.jpg)
 
 ### 🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
 
@@ -140,25 +138,25 @@
 
 ---
 
-### :movie_camera: You also have available explanations in video format that will help you to better understand how SIMANFOR works and to take your first steps with this tool (just Spanish by the moment):
+### 🎬 You also have available explanations in video format that will help you to better understand how SIMANFOR works and to take your first steps with this tool (just Spanish by the moment):
 
-- :scroll: Playlist: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
-    - :arrow_forward: [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
-    - :arrow_forward: [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
-    - :arrow_forward: [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
-    - :arrow_forward: [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
-    - :arrow_forward: [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
-    - :arrow_forward: [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
-    - :arrow_forward: [Visualizar resultados de SIMANFOR en R](https://youtu.be/a0Mo-WqyHbE?si=tb07ZZZoCx_hhl2A)
-    - :arrow_forward: [Simulaciones con modelos de árbol individual para masas puras en SIMANFOR](https://youtu.be/E06jUw3endo?si=sZuXwWM3iRCU3_Wx)
-    - :arrow_forward: [Simulaciones con modelos de árbol individual para masas mixtas en SIMANFOR](https://youtu.be/FW5giE_BKpM?si=OowzInCz6gGFjhxJ)
-    - :arrow_forward: [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?si=_IIVvrP2mRoeq1oX)
-    - :arrow_forward: [Simulaciones con modelos de masa en SIMANFOR](https://youtu.be/JDY86hcv8dM?si=gZ8SlTi7cVV2H1b5)
-    - :arrow_forward: [Cómo aplicar cortas en SIMANFOR](https://youtu.be/jwO3t0itVuE?si=R04ldbn1RtHblJdy)
-    - :arrow_forward: [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
-    - :arrow_forward: [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
-    - :arrow_forward: [Escenarios en SIMANFOR: errores frecuentes y edición de escenarios](https://youtu.be/4tFygnCK2UU?si=1-cZ_r2ev1PDTTq8)
-    - :arrow_forward: [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
+- 📜 Playlist: [SIMANFOR: Sistema de apoyo para la simulación de alternativas de manejo forestal sostenible](https://youtube.com/playlist?list=PLsdzTKpJZZa7vn5zGpn07-bd0Nce-fMhJ&feature=shared)
+    - ▶️ [Introducción a SIMANFOR](https://youtu.be/Y8pWcPdHsMY?feature=shared)
+    - ▶️ [Documentación de SIMANFOR en GitHub](https://youtu.be/i4AXBrm4PqI?feature=shared)
+    - ▶️ [Primera toma de contacto con la web de SIMANFOR](https://youtu.be/SlfTKkf37MA?feature=shared)
+    - ▶️ [Explorando inventarios para utilizar en SIMANFOR](https://youtu.be/_SOIN--Tllw?feature=shared)
+    - ▶️ [Mi primera simulación en SIMANFOR](https://youtu.be/kCRNgIsfAn8?feature=shared)
+    - ▶️ [Explorando los resultados de SIMANFOR](https://youtu.be/bfUqAEd2i94?feature=shared)
+    - ▶️ [Visualizar resultados de SIMANFOR en R](https://youtu.be/a0Mo-WqyHbE?si=tb07ZZZoCx_hhl2A)
+    - ▶️ [Simulaciones con modelos de árbol individual para masas puras en SIMANFOR](https://youtu.be/E06jUw3endo?si=sZuXwWM3iRCU3_Wx)
+    - ▶️ [Simulaciones con modelos de árbol individual para masas mixtas en SIMANFOR](https://youtu.be/FW5giE_BKpM?si=OowzInCz6gGFjhxJ)
+    - ▶️ [Simulaciones con modelos estáticos en SIMANFOR](https://youtu.be/b11iagnqRCA?si=_IIVvrP2mRoeq1oX)
+    - ▶️ [Simulaciones con modelos de masa en SIMANFOR](https://youtu.be/JDY86hcv8dM?si=gZ8SlTi7cVV2H1b5)
+    - ▶️ [Cómo aplicar cortas en SIMANFOR](https://youtu.be/jwO3t0itVuE?si=R04ldbn1RtHblJdy)
+    - ▶️ [Simulaciones utilizando cortas por especies para masas mixtas en SIMANFOR](https://youtu.be/jNKvKxR7YvE?feature=shared)
+    - ▶️ [Simulaciones utilizando cortas con árboles de futuro en SIMANFOR](https://youtu.be/dJvYjD4c0ss?feature=shared)
+    - ▶️ [Escenarios en SIMANFOR: errores frecuentes y edición de escenarios](https://youtu.be/4tFygnCK2UU?si=1-cZ_r2ev1PDTTq8)
+    - ▶️ [Aplicando un mismo escenario selvícola a parcelas de diferente edad en SIMANFOR](https://youtu.be/vH7HI3d5hPU?feature=shared)
 
 ---
 
@@ -170,7 +168,7 @@
 
 ---
 
-### :computer: Contributors list
+### 💻 Contributors list
 
 
 #### Felipe Bravo Oviedo:
@@ -219,17 +217,12 @@
 
 ---
 
-### :email: Contact
+### 📧 Contact
 
 *For any questions or suggestions, you can contact the SIMANFOR technical team at simanfor.forest@uva.es*.
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
-</p>
+![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)

@@ -28,7 +28,7 @@ In this repository you will find documentation about [describe the repository co
 
 For more SIMANFOR content, videos, publications and how to cite, visit:
 
-* [:link: More information about SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_english.md)
+* [🔗 More information about SIMANFOR](https://github.com/simanfor/.github/blob/main/docs/more_info_english.md)
 
 ---
 
