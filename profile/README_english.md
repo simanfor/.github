@@ -10,7 +10,7 @@
 
 ---
 
-![infografia](./SIMANFOR-infografia.jpg)
+![infografia](https://raw.githubusercontent.com/simanfor/.github/main/docs/SIMANFOR-infografia.jpg)
 
 ### 🙋‍♀️ We are the Quantitative Forestry research group of the [iuFOR - University Institute on Sustainable Forest Management Research](https://iufor.uva.es/)
 

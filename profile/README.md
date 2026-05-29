@@ -10,7 +10,7 @@
 
 ---
 
-![infografia](./SIMANFOR-infografia.jpg)
+![infografia](https://raw.githubusercontent.com/simanfor/.github/main/docs/SIMANFOR-infografia.jpg)
 
 ### 🙋‍♀️ Somos el grupo de Selvicultura Cuantitativa del [iuFOR - Instituto Universitario de Investigación en Gestión Forestal Sostenible](https://iufor.uva.es/)
 
